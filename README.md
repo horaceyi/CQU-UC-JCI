@@ -16,7 +16,7 @@
 2. 03_选修课程 目录下只包含机器学习和大数据两门重大课程和两门第五年UC课程相关资料；
 3. EE专业课程暂未收录。
 
-欢迎不同年级/专业的其他同学修改和完善（提交 Pull Requests或使用 Issues），也可以[直接联系我](horaceyi@outlook.com)。docx/ppt 格式文件请转为 PDF 格式后上传，单个文件大小不得超过100Mb。
+欢迎不同年级/专业的其他同学修改和完善（提交 Pull Requests或使用 Issues），也可以[直接联系我](mailto:horaceyi@outlook.com)。docx/ppt 格式文件请转为 PDF 格式后上传，单个文件大小不得超过100Mb。
 
 ## 科学GitHub工具
 > 链接: https://pan.baidu.com/s/1eF5c01A_6CxRsa5lx0SYlQ?pwd=6gj6 提取码: 6gj6
