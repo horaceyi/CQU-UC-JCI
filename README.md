@@ -2,7 +2,7 @@
 <a href="https://github.com/preminstrel/awesome-seu">![GitHub Repo stars](https://img.shields.io/github/stars/horaceyi/CQU-UC-JCI?style=flat-square&logo=github&color=yellow)</a>
 <a title="Hits" target="_blank" href="https://github.com/horaceyi/CQU-UC-JCI"><img src="https://hits.b3log.org/horaceyi/CQU-UC-JCI.svg"></a>
 
-此Repo为留给重庆大学UC联合学院学弟学妹们的课程资源(包括但不限于五年所有课程的教材、作业等)。
+此Repo为留给重庆大学UC联合学院学弟学妹们的课程资源(包括但不限于五年所有课程的教材、作业、考试样题等)。
 
 其中02_公共专业课程 指低年级ME和EE专业同学都要上的课程，03_选修课程 指高年级同学可选课程，如模块化课程等。
 
